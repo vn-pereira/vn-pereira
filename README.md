@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vanessa Pereira</h1>
 <h3 align="center">Frontend developer from Brazil</h3>
-<img alt="Coding" src="https://giphy.com/gifs/P3ATe4pn9KFJBTIzDH?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=">
+<img alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlwMXQzZjhyczRhNW1yZDc4cWdmeHBudG1qYWRvc3NhMGNva2N1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P3ATe4pn9KFJBTIzDH/giphy.gif">
 
 - 🌱 I’m currently learning **Javascript, Java, Angular, HTML, CSS, MySQL, Scrum**
 
