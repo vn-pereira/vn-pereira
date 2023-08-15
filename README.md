@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanessa Pereira</h1>
-<h3 align="center">Frontend developer from Brazil</h3>
+<h3 align="center">FullStack Developer from Brazil</h3>
 <img alt="Coding" align="center" width="900" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlwMXQzZjhyczRhNW1yZDc4cWdmeHBudG1qYWRvc3NhMGNva2N1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P3ATe4pn9KFJBTIzDH/giphy.gif">
 
 - 🌱 I’m currently learning **Javascript, Java, Angular, HTML, CSS, MySQL, Scrum**
@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <span><a href="https://www.linkedin.com/in/vanessa-pereira-o/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a></span>
-<span><a href="mailto:vanessa.pereira.o@hotmail.com"><img href="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=blue"/></a></span>
+<span><a href="mailto:vanessa.pereira.o@hotmail.com"><img href="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft_Outlook"/></a></span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
