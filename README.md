@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <span><a href="https://www.linkedin.com/in/vanessa-pereira-o/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a></span>
-<span><a href="mailto:vanessa.pereira.o@hotmail.com"><img href="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft_Outlook"/></a></span>
+<span><a href="mailto:vanessa.pereira.o@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="microsoftoutlook"/></a></span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
