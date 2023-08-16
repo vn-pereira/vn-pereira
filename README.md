@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vanessa Pereira</h1>
 <h3 align="center">FullStack Developer from Brazil</h3>
+
 <div align="center" >
     <span><img src="https://komarev.com/ghpvc/?username=vn-pereira&label=Profile%20views&color=5C3099&style=for-the-badge" alt="Profile Views"/></span>
     <span><img src="https://img.shields.io/badge/She_Codes-&#10084;-ED1C24.svg?style=for-the-badge" alt="She Codes"/></span>
 </div>
+<br/>
 <img alt="Coding" align="center" width="900" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlwMXQzZjhyczRhNW1yZDc4cWdmeHBudG1qYWRvc3NhMGNva2N1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P3ATe4pn9KFJBTIzDH/giphy.gif">
 - 🌱-🌱-🌱-🌱
 <div>
@@ -11,6 +13,7 @@
 <p>I'm a professional graduated in Computer Science from Centro Universitário Carioca and with experience as an IT Engineering Analyst. I am constantly improving my skills and knowledge to provide technological solutions through digital transformation.</p>
 </div>
 
+<br/>
 <div>
   <span><img width="400" align="right" style="margin: 30px 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-pereira&theme=blue-green"/></span>
 </div>
