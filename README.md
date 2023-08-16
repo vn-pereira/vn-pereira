@@ -6,9 +6,10 @@
 </div>
 <img alt="Coding" align="center" width="900" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlwMXQzZjhyczRhNW1yZDc4cWdmeHBudG1qYWRvc3NhMGNva2N1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P3ATe4pn9KFJBTIzDH/giphy.gif">
 - 🌱-🌱-🌱-🌱
+<div>
 <h3 align="left">About me:</h3>
-<p>
-I'm a professional graduated in Computer Science from Centro Universitário Carioca and with experience as an IT Engineering Analyst. I am constantly improving my skills and knowledge to provide technological solutions through digital transformation.</p>
+<p>I'm a professional graduated in Computer Science from Centro Universitário Carioca and with experience as an IT Engineering Analyst. I am constantly improving my skills and knowledge to provide technological solutions through digital transformation.</p>
+</div>
 
 <div>
   <span><img width="400" align="right" style="margin: 30px 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-pereira&theme=blue-green"/></span>
@@ -36,5 +37,13 @@ I'm a professional graduated in Computer Science from Centro Universitário Cari
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></span>
 <span><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></span>
+</div>
+
+<div>
+<h3 align="left">Facts About Me</h3>
+<p>-🌱My passion for the IT field began in adolescence.</p>
+<p>-🌱In my free time, I enjoy cooking new recipes, going to the beach, or reading a book.</p>
+<p>-🌱I'm a determined, studious, and dedicated individual in the activities I undertake.</p>
 </div>
