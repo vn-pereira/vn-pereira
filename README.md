@@ -6,6 +6,14 @@
 </div>
 <img alt="Coding" align="center" width="900" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlwMXQzZjhyczRhNW1yZDc4cWdmeHBudG1qYWRvc3NhMGNva2N1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P3ATe4pn9KFJBTIzDH/giphy.gif">
 - 🌱-🌱-🌱-🌱
+<h3 align="left">About me:</h3>
+<p>
+I'm a professional graduated in Computer Science from Centro Universitário Carioca and with experience as an IT Engineering Analyst. I am constantly improving my skills and knowledge to provide technological solutions through digital transformation.</p>
+
+<div>
+  <span><img width="400" align="right" style="margin: 30px 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-pereira&theme=blue-green"/></span>
+</div>
+
 <h3 align="left"> I’m currently learning</h3>
 <span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></span>
@@ -16,9 +24,7 @@
 <span><a href="https://www.linkedin.com/in/vanessa-pereira-o/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a></span>
 <span><a href="mailto:vanessa.pereira.o@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="microsoftoutlook"/></a></span>
 </p>
-<div>
-  <span><img align="right" style="margin: 30px 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-pereira&theme=blue-green"/></span>
-</div>
+
 <div>
 <h3 align="left">Languages and Tools:</h3>
 <span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></span>
